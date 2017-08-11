@@ -1,6 +1,6 @@
 ## Standard Errors
 
-Some description.
+Here is some description.
 
 ### Cool Analysis
 
